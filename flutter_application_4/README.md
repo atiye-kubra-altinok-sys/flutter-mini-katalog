@@ -11,4 +11,19 @@ Kullanılan  Flutter Sürümü: 3.41.3
 4. Uygulamayı başlatmak için flutter run komutunu kullanın.
 
 Ekran Görüntüleri:
+
+
+
+
 ![image](https://github.com/atiye-kubra-altinok-sys/flutter-mini-katalog/blob/d057c2dfad6c25558a4dd39e46f99d4de371b874/HomeScreen.png)
+
+
+
+![image](https://github.com/atiye-kubra-altinok-sys/flutter-mini-katalog/blob/ec39611e422101b28b7e4b5c7ac94de08ce0f874/Product-detail.png)
+
+
+![image](https://github.com/atiye-kubra-altinok-sys/flutter-mini-katalog/blob/ec39611e422101b28b7e4b5c7ac94de08ce0f874/CartScreen.png)
+
+
+
+![image](https://github.com/atiye-kubra-altinok-sys/flutter-mini-katalog/blob/ec39611e422101b28b7e4b5c7ac94de08ce0f874/Emty-CartScreen.png)
