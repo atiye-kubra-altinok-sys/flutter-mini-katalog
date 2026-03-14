@@ -11,3 +11,4 @@ Kullanılan  Flutter Sürümü: 3.41.3
 4. Uygulamayı başlatmak için flutter run komutunu kullanın.
 
 Ekran Görüntüleri:
+![image](https://github.com/atiye-kubra-altinok-sys/flutter-mini-katalog/blob/d057c2dfad6c25558a4dd39e46f99d4de371b874/HomeScreen.png)
