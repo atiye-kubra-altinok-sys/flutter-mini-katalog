@@ -10,3 +10,4 @@ Kullanılan  Flutter Sürümü: 3.41.3
 3. Bağımlılıkları yüklemek için flutter pub get komutunu çalıştırın.
 4. Uygulamayı başlatmak için flutter run komutunu kullanın.
 
+Ekran Görüntüleri:
