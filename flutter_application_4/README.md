@@ -1,17 +1,12 @@
-# flutter_application_4
+Proje Adı: Mini Katalog Uygulaması
 
-A new Flutter project.
+Açıklama: Flutter ile geliştirilmiş, ürünlerin listelendiği ve detaylarının görüntülendiği temel bir e-ticaret arayüzü simülasyonu.
 
-## Getting Started
+Kullanılan  Flutter Sürümü: 3.41.3
 
-This project is a starting point for a Flutter application.
+Çalıştırma Adımları:
+1. Projeyi bilgisayarınıza indirin (git clone ...)
+2. Terminalde flutter_application_4 klasörüne girin (cd flutter_application_4)
+3. Bağımlılıkları yüklemek için flutter pub get komutunu çalıştırın.
+4. Uygulamayı başlatmak için flutter run komutunu kullanın.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
